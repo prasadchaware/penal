@@ -1,51 +1,501 @@
-LawyerID,Name,Expertise,Location,Contact
-1,Aditi Sharma,Criminal Law,Kenwad,+91 98765 43210
-2,Raj Kapoor,Family Law,Mumbai,+91 87654 32109
-3,Amit Singh,Civil Litigation,Bangalore,+91 76543 21098
-4,Meera Patel,Intellectual Property,Ahmedabad,+91 65432 10987
-5,Anuj Verma,Corporate Law,Chennai,+91 54321 09876
-6,Sonia Reddy,Immigration Law,Hyderabad,+91 43210 98765
-7,Vikas Mishra,Real Estate Law,Kolkata,+91 32109 87654
-8,Shweta Gupta,Tax Law,Jaipur,+91 21098 76543
-9,Karan Khanna,Employment Law,Pune,+91 10987 65432
-10,Priya Malhotra,Personal Injury Law,Chandigarh,+91 09876 54321
-11,Rahul Mehta,Contract Law,Delhi,+91 98765 43211
-12,Neha Kapoor,Environmental Law,Mumbai,+91 87654 32110
-13,Arjun Sharma,Criminal Defense,Lucknow,+91 76543 21099
-14,Sneha Verma,Family and Divorce Law,Chennai,+91 65432 10988
-15,Vivek Singh,Commercial Law,Bangalore,+91 54321 09877
-16,Megha Patel,Intellectual Property,Pune,+91 43210 98766
-17,Sameer Reddy,Corporate Litigation,Hyderabad,+91 32109 87655
-18,Aishwarya Mishra,Immigration and Nationality Law,Delhi,+91 21098 76544
-19,Sunil Gupta,Real Estate and Property Law,Ahmedabad,+91 10987 65433
-20,Ritu Khanna,Tax Planning and Disputes,Mumbai,+91 09876 54322
-21,Rajeev Malhotra,Labor and Employment Law,Chennai,+91 98765 43212
-22,Simran Kapoor,Personal Injury and Accident Law,Jaipur,+91 87654 32111
-23,Varun Sharma,Insurance Law,Kolkata,+91 76543 21090
-24,Ananya Verma,Consumer Protection Law,Bangalore,+91 65432 10989
-25,Sanjay Reddy,International Trade Law,Pune,+91 54321 09878
-26,Deepika Gupta,White-Collar Crime Defense,Mumbai,+91 43210 98767
-27,Avinash Khanna,Entertainment Law,Delhi,+91 32109 87656
-28,Shikha Patel,Healthcare Law,Chandigarh,+91 21098 76545
-29,Pradeep Singh,Technology and Cyber Law,Bangalore,+91 10987 65434
-30,Anjali Mishra,Bankruptcy and Insolvency Law,Hyderabad,+91 09876 54323
-31,Sachin Kapoor,Arbitration and Mediation,Jaipur,+91 98765 43213
-32,Nidhi Malhotra,Human Rights Law,Mumbai,+91 87654 32112
-33,Rakesh Verma,Family Business Succession Planning,Chennai,+91 76543 21091
-34,Swati Sharma,Environmental Compliance,Delhi,+91 65432 10980
-35,Kunal Patel,Product Liability Law,Pune,+91 54321 09879
-36,Anisha Khanna,Intellectual Property Litigation,Ahmedabad,+91 43210 98768
-37,Ajay Reddy,Real Estate Development Law,Kolkata,+91 32109 87657
-38,Kavita Gupta,Immigration Appeals,Bangalore,+91 21098 76546
-39,Suresh Mishra,Tax Advisory Services,Chandigarh,+91 10987 65435
-40,Pooja Kapoor,Employment Discrimination Law,Hyderabad,+91 09876 54324
-41,Parth Malhotra,Personal Injury Litigation,Mumbai,+91 98765 43214
-42,Sarita Verma,Cybersecurity and Data Privacy Law,Jaipur,+91 87654 32113
-43,Rajeev Sharma,Construction Law,Delhi,+91 76543 21092
-44,Asha Patel,Franchise Law,Pune,+91 65432 10981
-45,Prakash Khanna,Securities Law,Mumbai,+91 54321 09870
-46,Ananya Singh,Intellectual Property Prosecution,Chennai,+91 43210 98769
-47,Krishna Reddy,Family Mediation,Hyderabad,+91 32109 87658
-48,Suman Kapoor,Insurance Defense Law,Kolkata,+91 21098 76547
-49,Vikram Malhotra,Public Interest Litigation,Bangalore,+91 10987 65436
-50,Shivani Gupta,Corporate Governance Law,Jaipur,+91 09876 54325
+Name,Expertise,Location,Contact
+Varun Deshmukh,Estate Planning,Delhi,+91 9023730510
+Rudra Ghosh,Art Law,Mumbai,+91 8354443910
+Reyansh Patel,Consumer Protection Law,Bangalore,+91 8851264705
+Sumit Lal,Family and Divorce Law,Hyderabad,+91 9789756897
+Suresh Mandal,Tax Planning and Disputes,Mumbai,+91 9665771628
+Radhika Ganguly,Insurance Law,Lucknow,+91 9601394514
+Manisha Yadav,Tax Law,Kolkata,+91 7448900613
+Anjali Bhide,Personal Injury Law,Mumbai,+91 8508902503
+Rupali Roy,White-Collar Crime Defense,Chandigarh,+91 9913517472
+Tanvi Tiwari,Corporate Law,Ahmedabad,+91 9758446919
+Deepak Singh,Administrative Law,Delhi,+91 7120672538
+Avinash Nag,Administrative Law,Jaipur,+91 7593424590
+Ashok Malik,Intellectual Property,Pune,+91 9238086072
+Rohan Balakrishnan,Public International Law,Delhi,+91 7840920737
+Ankit Sharma,Real Estate Law,Ahmedabad,+91 7120167159
+Anushka Yadav,Administrative Law,Delhi,+91 9703142009
+Sangeeta Bose,Intellectual Property Litigation,Hyderabad,+91 8440233870
+Arun Verma,Administrative Law,Chandigarh,+91 7002068740
+Aditya Chopra,Maritime Law,Bangalore,+91 9775209998
+Myra Mehta,Intellectual Property,Delhi,+91 9061797716
+Sneha Nambiar,International Trade Law,Bangalore,+91 8002698936
+Kavita Menon,Technology and Cyber Law,Mumbai,+91 8904283619
+Manisha More,Technology and Cyber Law,Kolkata,+91 8083435805
+Aishwarya Balakrishnan,Education Law,Delhi,+91 7419374948
+Sumit Chakraborty,Intellectual Property,Pune,+91 8794193498
+Anamika Shroff,Estate Planning,Bangalore,+91 9331615332
+Vijay Thakur,White-Collar Crime Defense,Ahmedabad,+91 8881057020
+Ritu Balakrishnan,Elder Law,Pune,+91 9888723553
+Aditi Yadav,Tax Planning and Disputes,Chandigarh,+91 7290144694
+Jayesh Mandal,Construction Law,Pune,+91 9272646320
+Abhinav Balakrishnan,Labor and Employment Law,Chennai,+91 7308509012
+Sameer Gupta,International Arbitration,Ahmedabad,+91 8112400959
+Pooja Sengupta,Aviation Law,Jaipur,+91 9002166250
+Ananya Yadav,Human Rights Law,Bangalore,+91 9237051143
+Diya Verma,Arbitration and Mediation,Delhi,+91 7745239220
+Kabir Menon,Fashion Law,Lucknow,+91 9660778373
+Ankita Thakur,Public Interest Law,Hyderabad,+91 7194354604
+Alok Kapoor,Commercial Law,Chandigarh,+91 7449718561
+Rupali Pillai,Military Law,Chennai,+91 7833465284
+Ravi Kamble,Government Relations,Hyderabad,+91 9660201058
+Kunal Sengupta,Family and Divorce Law,Jaipur,+91 7528927857
+Radhika Sen,White-Collar Crime Defense,Hyderabad,+91 7095227093
+Shweta Verma,Energy Law,Ahmedabad,+91 9973963022
+Renu More,Entertainment Law,Pune,+91 7028465362
+Sanjay Malhotra,Healthcare Law,Chennai,+91 8380808064
+Pradeep Roy,Family and Divorce Law,Kolkata,+91 9061996667
+Nitin Chakraborty,Healthcare Law,Delhi,+91 9129178221
+Ananya Malhotra,Maritime Law,Jaipur,+91 7857857341
+Anuj Bhat,Tax Law,Mumbai,+91 8132869802
+Shalini Yadav,Privacy Law,Ahmedabad,+91 9673880589
+Aanya Kapoor,International Arbitration,Hyderabad,+91 8347083827
+Amit More,Consumer Protection Law,Bangalore,+91 7274648950
+Parth Raj,Family and Divorce Law,Chennai,+91 8013418921
+Vishal Nair,Social Security Law,Delhi,+91 7775515160
+Pooja Varma,Public Interest Law,Jaipur,+91 8741977791
+Vishal Srivastava,Administrative Law,Mumbai,+91 8973098369
+Avni Srivastava,Maritime Law,Pune,+91 7454673600
+Anuj Shinde,Public International Law,Lucknow,+91 7473857072
+Sangeeta Singh,Aviation Law,Pune,+91 8283130957
+Megha Pillai,Intellectual Property Litigation,Pune,+91 7389500621
+Vivek More,Maritime Law,Lucknow,+91 9614585942
+Prakash Raj,Transport Law,Kolkata,+91 8907093707
+Amitabh Nambiar,Government Relations,Hyderabad,+91 9142816375
+Aadi Verma,Construction Law,Chandigarh,+91 8438102374
+Preeti Pillai,Media Law,Ahmedabad,+91 9943404331
+Juhi Verma,Public Interest Law,Pune,+91 7537761112
+Poonam Rajput,Food Law,Hyderabad,+91 8236639202
+Yash Malik,Estate Planning,Hyderabad,+91 7474317517
+Mihir Chavan,Employment Law,Ahmedabad,+91 9115560526
+Sweta Ranganathan,Maritime Law,Bangalore,+91 7026339132
+Karan Mukherjee,Elder Law,Chandigarh,+91 8681440760
+Divya Reddy,Sports Law,Kolkata,+91 9672777555
+Deepak Rajagopal,Intellectual Property Rights,Chennai,+91 7281754045
+Aishwarya Bose,Military Law,Hyderabad,+91 9489936270
+Pallavi Dixit,Civil Litigation,Lucknow,+91 7949613905
+Kunal Raj,Military Law,Kolkata,+91 7816143423
+Alka Kulkarni,Estate Planning,Kolkata,+91 8697834841
+Deepak Malhotra,Intellectual Property Rights,Mumbai,+91 9724788501
+Suresh Yadav,Estate Planning,Kolkata,+91 7665512384
+Harish Yadav,Art Law,Pune,+91 8206299233
+Deepika Bose,Space Law,Jaipur,+91 9245056723
+Parth Rao,Education Law,Delhi,+91 8459051965
+Smita Iyer,Administrative Law,Kolkata,+91 9869151738
+Suhana Srivastava,Contract Law,Mumbai,+91 7658890066
+Siddharth Tiwari,Civil Litigation,Kolkata,+91 9438506601
+Jyoti Kapoor,Energy Law,Mumbai,+91 9573100350
+Sameer Jha,Family and Divorce Law,Chennai,+91 9793306846
+Renu Chopra,Criminal Law,Jaipur,+91 9005227481
+Abhinav Lal,Food Law,Mumbai,+91 9560480165
+Vivek Malhotra,Art Law,Bangalore,+91 7389009011
+Ananya Rajagopal,Space Law,Bangalore,+91 8772192407
+Megha Singh,Tax Planning and Disputes,Pune,+91 9876077732
+Aarohi Pawar,Energy Law,Kolkata,+91 9077327222
+Rahul Mandal,Personal Injury and Accident Law,Delhi,+91 8984660963
+Juhi Muley,Tax Planning and Disputes,Delhi,+91 8994320983
+Vinay Bhat,Sports Law,Delhi,+91 9439629992
+Savita Kapoor,Aviation Law,Bangalore,+91 7149589891
+Alka Pandey,Military Law,Ahmedabad,+91 8648215418
+Varun Kumar,Consumer Protection Law,Lucknow,+91 9908078955
+Kunal Gupta,Public Interest Law,Jaipur,+91 9052451443
+Sweta Chavan,Personal Injury and Accident Law,Pune,+91 7309565727
+Alka Mandal,Military Law,Chennai,+91 7185958004
+Sayali Patil,Animal Law,Pune,+91 9594151028
+Anuj Pillai,Criminal Defense,Pune,+91 8101281452
+Amitabh Kumar,White-Collar Crime Defense,Hyderabad,+91 8926402554
+Vikram Mandal,Government Relations,Hyderabad,+91 7703983602
+Advait Nambiar,Public International Law,Delhi,+91 8524325067
+Vishwas Bhide,Education Law,Chandigarh,+91 9403924389
+Nikhil Rajput,Public International Law,Mumbai,+91 7938083267
+Divya Lal,Personal Injury Law,Bangalore,+91 8356021538
+Sayali Malik,Family Law,Chandigarh,+91 9823155831
+Mihir Iyengar,Immigration Law,Jaipur,+91 7219800259
+Rohit Sharma,Public Interest Law,Chandigarh,+91 7135268685
+Anamika Pawar,Food Law,Delhi,+91 8592353894
+Aarush Kamble,Art Law,Ahmedabad,+91 8558309112
+Nikhil Deshmukh,Criminal Law,Chennai,+91 7872293409
+Kabir Godbole,Family and Divorce Law,Chandigarh,+91 7140920435
+Ravi Deshpande,Energy Law,Pune,+91 8604473278
+Abhinav Chavan,Animal Law,Chennai,+91 8451567469
+Anushka Pawar,Healthcare Law,Chandigarh,+91 8442739902
+Rajesh Banerjee,Military Law,Hyderabad,+91 9067448616
+Sameer Nair,Sports Law,Bangalore,+91 9271734102
+Yash Dixit,Criminal Law,Chandigarh,+91 9437068179
+Preeti Jain,Intellectual Property,Chandigarh,+91 8795727115
+Aaradhya Sinha,White-Collar Crime Defense,Jaipur,+91 9235948180
+Amar Malhotra,Media Law,Delhi,+91 9452497803
+Priya Chakraborty,Transport Law,Mumbai,+91 9682936183
+Megha Kumar,Family Law,Ahmedabad,+91 7925472728
+Sachin Ghosh,Maritime Law,Hyderabad,+91 9760855217
+Ananya Raj,Sports Law,Lucknow,+91 8347339136
+Sunil Muley,Corporate Law,Pune,+91 7470308390
+Akash Shah,Maritime Law,Kolkata,+91 8429941929
+Vinay Tiwari,Food Law,Chennai,+91 8318064783
+Vishwas Joshi,Arbitration and Mediation,Chandigarh,+91 7735249790
+Ankita Pandit,Animal Law,Pune,+91 7673830473
+Rani More,Military Law,Pune,+91 7044675716
+Shweta Raj,International Trade Law,Ahmedabad,+91 8189288365
+Rahul Deshpande,Public International Law,Bangalore,+91 8774698327
+Jyoti Iyer,Aviation Law,Chandigarh,+91 9837763625
+Vikram Majumdar,Energy Law,Lucknow,+91 7096249507
+Priya Sharma,Consumer Protection Law,Pune,+91 8663629765
+Vihaan Sengupta,Aviation Law,Chennai,+91 7601098266
+Diya Ghosh,Arbitration and Mediation,Kolkata,+91 8434184888
+Ananya Godbole,Entertainment Law,Bangalore,+91 9861423835
+Sheetal Shukla,Estate Planning,Jaipur,+91 8087239382
+Anamika Shah,Art Law,Ahmedabad,+91 9548480956
+Radhika More,Technology and Cyber Law,Mumbai,+91 9938911945
+Raj Menon,Commercial Law,Pune,+91 9811475726
+Abhishek Malik,Privacy Law,Mumbai,+91 9931134242
+Vikram Mukherjee,Human Rights Law,Chennai,+91 7084115882
+Priya Malik,Art Law,Chandigarh,+91 7124345880
+Tanuja Roy,Family and Divorce Law,Bangalore,+91 9475315071
+Avinash Yadav,Healthcare Law,Chennai,+91 8423948038
+Amitabh Bhattacharya,Privacy Law,Hyderabad,+91 9289174961
+Ashish Menon,Family Law,Chennai,+91 8705789959
+Pallavi Roy,Real Estate Law,Chennai,+91 8108288029
+Anjali Sengupta,Animal Law,Hyderabad,+91 7097538318
+Nikhil Lal,Social Security Law,Lucknow,+91 8534467484
+Priya Mandal,Family Law,Pune,+91 7127565565
+Pradeep Deshmukh,Human Rights Law,Chandigarh,+91 8301847733
+Jayesh Saxena,Administrative Law,Ahmedabad,+91 7171105898
+Aryan Pandit,Insurance Law,Hyderabad,+91 7083041946
+Savita Sen,Arbitration and Mediation,Delhi,+91 7554993706
+Shweta Balakrishnan,Personal Injury and Accident Law,Pune,+91 8114676106
+Reyansh Sharma,Commercial Law,Pune,+91 8930269905
+Divya Bhattacharya,Government Relations,Hyderabad,+91 8149218566
+Manisha Balakrishnan,Personal Injury Law,Chennai,+91 8033817295
+Anamika Banerjee,Maritime Law,Mumbai,+91 9658234359
+Priyanka Shinde,Family and Divorce Law,Bangalore,+91 8280186449
+Shubham Chopra,Fashion Law,Bangalore,+91 7484050723
+Alok Shah,Elder Law,Chennai,+91 9103992713
+Preeti Yadav,Family Law,Lucknow,+91 7495027560
+Simran Mandal,Healthcare Law,Mumbai,+91 7697915143
+Siddharth Khanna,Tax Planning and Disputes,Ahmedabad,+91 7941300602
+Shubham Reddy,Military Law,Delhi,+91 9743202989
+Reyansh Bose,Healthcare Law,Delhi,+91 7208413828
+Sachin Reddy,Intellectual Property,Hyderabad,+91 7287080570
+Vivek Patil,Criminal Defense,Mumbai,+91 7574977049
+Amitabh Bhide,Consumer Protection Law,Hyderabad,+91 8470689758
+Manisha Pawar,Criminal Defense,Lucknow,+91 9607372648
+Pradeep Banerjee,Media Law,Mumbai,+91 8618064244
+Aditya Pandey,Intellectual Property Rights,Pune,+91 8570243597
+Myra Nair,Personal Injury Law,Ahmedabad,+91 8388975891
+Madhu Chatterjee,Sports Law,Delhi,+91 8387097392
+Deepak Dixit,Maritime Law,Jaipur,+91 8828959110
+Tanvi Bajaj,Intellectual Property,Ahmedabad,+91 8632893041
+Siddharth Verma,Real Estate Law,Bangalore,+91 8990234838
+Divya Chatterjee,Estate Planning,Delhi,+91 8441016033
+Aadi Pandey,International Trade Law,Jaipur,+91 9832239024
+Vikram Dixit,Military Law,Hyderabad,+91 9290014117
+Anuj Deshpande,Public International Law,Chandigarh,+91 8870986933
+Ritu Bhide,Environmental Law,Pune,+91 9530574612
+Vikram Tiwari,Government Relations,Chennai,+91 7145483929
+Diya Chatterjee,Civil Litigation,Kolkata,+91 7421978506
+Yash Shroff,Employment Law,Lucknow,+91 7587090859
+Shalini Shroff,Family Law,Hyderabad,+91 9525363598
+Arun Godbole,International Arbitration,Lucknow,+91 9438675003
+Ankit Reddy,Maritime Law,Kolkata,+91 9103850275
+Megha Muley,Maritime Law,Lucknow,+91 9721420757
+Sanjeev Rao,Estate Planning,Mumbai,+91 7406329904
+Nitin Sengupta,Human Rights Law,Jaipur,+91 8241374722
+Aadi Bajaj,Immigration Law,Chandigarh,+91 7959578648
+Amit Verma,Sports Law,Bangalore,+91 8248297595
+Harish Jha,Elder Law,Chandigarh,+91 9614451719
+Sakshi Dutta,Art Law,Bangalore,+91 8727045004
+Santosh Dutta,Family and Divorce Law,Hyderabad,+91 9884270100
+Naina Iyer,Real Estate Law,Kolkata,+91 7086512433
+Vikram Shinde,Intellectual Property Litigation,Chennai,+91 9644176008
+Aarush Iyer,Family Law,Pune,+91 8874870935
+Sumit Pawar,Social Security Law,Lucknow,+91 8157385693
+Shweta Saxena,Family Law,Jaipur,+91 7011616584
+Sanjay Rajput,Fashion Law,Ahmedabad,+91 9927951140
+Abhinav Shinde,International Arbitration,Chandigarh,+91 9003350969
+Swati Nair,Telecommunications Law,Chandigarh,+91 8360358520
+Pooja Sinha,Fashion Law,Lucknow,+91 8595344466
+Amar Raj,Intellectual Property Rights,Ahmedabad,+91 8446449309
+Amaya Iyer,Telecommunications Law,Lucknow,+91 7484813300
+Radhika Menon,Intellectual Property,Chandigarh,+91 9033411786
+Aditi Kulkarni,Entertainment Law,Delhi,+91 7219637709
+Vivek Mandal,International Arbitration,Delhi,+91 9998020600
+Aditi Thakur,Telecommunications Law,Chandigarh,+91 8144875655
+Manisha Rajagopal,Fashion Law,Bangalore,+91 7659999887
+Vishal Menon,Elder Law,Chennai,+91 8827028692
+Kavya Ghosh,Intellectual Property,Jaipur,+91 7107009518
+Tanvi Shah,Tax Law,Hyderabad,+91 7176055259
+Sangeeta Gupta,Government Relations,Mumbai,+91 7674423209
+Renu Bajaj,Entertainment Law,Chandigarh,+91 7897585852
+Preeti Nair,Privacy Law,Pune,+91 8450286927
+Nikhil Menon,Entertainment Law,Jaipur,+91 8804035803
+Meera Kulkarni,Intellectual Property,Pune,+91 7671719202
+Kavya Joshi,Environmental Law,Bangalore,+91 8108174666
+Smita Patel,Tax Planning and Disputes,Hyderabad,+91 9159065182
+Diya Kamble,Transport Law,Chennai,+91 8992805813
+Alka Biswas,Consumer Protection Law,Mumbai,+91 9299088815
+Akash Varma,Human Rights Law,Kolkata,+91 7473720175
+Akash Bajaj,Human Rights Law,Bangalore,+91 7507742795
+Sameer Verma,Energy Law,Chennai,+91 7560262999
+Tanisha Reddy,Personal Injury Law,Hyderabad,+91 7174027252
+Anamika Khan,Personal Injury and Accident Law,Ahmedabad,+91 8391948143
+Prakash Bhide,Intellectual Property Litigation,Pune,+91 8872853446
+Karan Raj,International Trade Law,Delhi,+91 7298869032
+Jayesh Tiwari,Administrative Law,Lucknow,+91 8761766041
+Amaya Nath,Elder Law,Lucknow,+91 9446355507
+Renu Patel,Public Interest Law,Chandigarh,+91 9384668396
+Sanjay Deshmukh,Sports Law,Delhi,+91 8284746040
+Anjali Tiwari,Family Law,Ahmedabad,+91 7730502029
+Ankit Nag,Military Law,Hyderabad,+91 7610590447
+Swati Gupta,Energy Law,Jaipur,+91 9929952974
+Tanvi Chatterjee,Corporate Law,Bangalore,+91 9658816525
+Rudra Nag,Personal Injury Law,Bangalore,+91 7858820638
+Juhi Balakrishnan,Bankruptcy and Insolvency Law,Lucknow,+91 9342829213
+Vishal Varma,Elder Law,Hyderabad,+91 9786567597
+Aaradhya Varma,Animal Law,Hyderabad,+91 8214533880
+Raj Choudhary,Commercial Law,Chennai,+91 8541683146
+Sarika Patil,Environmental Law,Bangalore,+91 8214128334
+Yogesh Malik,Intellectual Property Rights,Ahmedabad,+91 7530475319
+Anamika Singh,Employment Law,Delhi,+91 7370835713
+Rajiv Rajput,Technology and Cyber Law,Ahmedabad,+91 8104784494
+Tanuja Kapoor,Aviation Law,Delhi,+91 7443253213
+Rahul Chatterjee,Technology and Cyber Law,Mumbai,+91 8675641993
+Sonia Shah,Bankruptcy and Insolvency Law,Pune,+91 8305231088
+Karan Nambiar,Human Rights Law,Hyderabad,+91 8813708100
+Avinash Ganguly,Space Law,Hyderabad,+91 9939769312
+Sonia Patil,Labor and Employment Law,Pune,+91 8228582397
+Anjali Singh,Aviation Law,Mumbai,+91 9587224149
+Karan Bajaj,Art Law,Jaipur,+91 7388191430
+Nitin Dixit,Personal Injury and Accident Law,Mumbai,+91 9613042798
+Sanjeev Choudhary,Space Law,Chennai,+91 9293652339
+Pradeep Ganguly,Transport Law,Bangalore,+91 9688106372
+Ankita Menon,Public International Law,Ahmedabad,+91 8203092444
+Ritu Reddy,Consumer Protection Law,Jaipur,+91 8557680586
+Megha Chavan,Art Law,Delhi,+91 7584399931
+Shweta Bhattacharya,Animal Law,Ahmedabad,+91 9767043613
+Advait Singh,Telecommunications Law,Lucknow,+91 9464720447
+Manisha Bhat,Construction Law,Bangalore,+91 8256399529
+Sumit Nambiar,Sports Law,Chennai,+91 7517636227
+Aarush Shroff,White-Collar Crime Defense,Pune,+91 8547928893
+Aarav Chatterjee,Personal Injury Law,Bangalore,+91 7763216117
+Sanjay Varma,Government Relations,Chennai,+91 9411062263
+Neha Tiwari,Bankruptcy and Insolvency Law,Ahmedabad,+91 7471041616
+Juhi Iyer,Intellectual Property Rights,Pune,+91 9458972029
+Meera Thakur,Energy Law,Hyderabad,+91 8480102787
+Deepika Roy,Intellectual Property Litigation,Ahmedabad,+91 7050850187
+Amaya Shah,Privacy Law,Kolkata,+91 7028118435
+Sheetal Shroff,Art Law,Delhi,+91 8581430271
+Anjali Jain,Criminal Law,Jaipur,+91 8708692214
+Sunil Sharma,White-Collar Crime Defense,Delhi,+91 9887532623
+Ankita Khan,Technology and Cyber Law,Kolkata,+91 8325863536
+Harish Ranganathan,Consumer Protection Law,Kolkata,+91 7035264128
+Vihaan Thakur,Tax Planning and Disputes,Chandigarh,+91 9197360861
+Swati Rajagopal,Technology and Cyber Law,Chennai,+91 9803423921
+Vishal Muley,Corporate Law,Mumbai,+91 7713557672
+Sweta Tiwari,Commercial Law,Kolkata,+91 8780864532
+Anjali Muley,Animal Law,Jaipur,+91 7461350648
+Manisha Divekar,Real Estate Law,Bangalore,+91 9285749338
+Kunal Das,Technology and Cyber Law,Hyderabad,+91 7797706953
+Aditi Chakraborty,Human Rights Law,Chennai,+91 8084654371
+Simran Kulkarni,Fashion Law,Chandigarh,+91 7294717434
+Megha Jha,Intellectual Property Rights,Ahmedabad,+91 7209772559
+Varun Kapoor,Intellectual Property,Chennai,+91 7086942722
+Sunil Tiwari,Environmental Law,Chennai,+91 7474489310
+Akash Tiwari,Aviation Law,Delhi,+91 7364234330
+Vihaan Bhattacharya,Transport Law,Kolkata,+91 9243229978
+Neha Sharma,Media Law,Hyderabad,+91 9821919263
+Suresh Majumdar,Construction Law,Chandigarh,+91 9596751180
+Shalini Biswas,Elder Law,Ahmedabad,+91 8571002957
+Tanuja Deshpande,Space Law,Mumbai,+91 8681415410
+Divya Varma,Consumer Protection Law,Lucknow,+91 9225822460
+Vihaan Shukla,Public Interest Law,Ahmedabad,+91 8212170786
+Nikhil Shah,Commercial Law,Bangalore,+91 9181889109
+Priyanka Chavan,Telecommunications Law,Mumbai,+91 9208447823
+Alka Bose,Elder Law,Pune,+91 9718259089
+Advait Bhat,Intellectual Property Litigation,Bangalore,+91 9001315202
+Vivek Bhattacharya,Energy Law,Lucknow,+91 8567324725
+Manoj Nambiar,Technology and Cyber Law,Bangalore,+91 9987410760
+Shubham Balakrishnan,Art Law,Bangalore,+91 9423759315
+Sumit Pillai,Estate Planning,Jaipur,+91 8461059902
+Ankit More,Civil Litigation,Pune,+91 9403295973
+Vijay Yadav,Sports Law,Chandigarh,+91 9662199315
+Ayesha Shukla,Insurance Law,Delhi,+91 8264732624
+Arjun Choudhary,Entertainment Law,Chennai,+91 9464443163
+Aarush Shukla,Corporate Law,Lucknow,+91 7604964233
+Anamika Sinha,Bankruptcy and Insolvency Law,Chandigarh,+91 7571150879
+Ankita Pandey,White-Collar Crime Defense,Pune,+91 9462438292
+Priya Sengupta,Government Relations,Chennai,+91 9745968375
+Rajeev Patel,Intellectual Property Litigation,Pune,+91 7568444131
+Juhi Pandey,International Arbitration,Delhi,+91 8785094762
+Diya Patel,Telecommunications Law,Lucknow,+91 9704584621
+Anjali Ranganathan,Public Interest Law,Mumbai,+91 7147806970
+Anuj Chakraborty,Intellectual Property Rights,Chennai,+91 9923091246
+Deepak Verma,White-Collar Crime Defense,Chennai,+91 8301462074
+Ananya Deshmukh,Fashion Law,Delhi,+91 8415368011
+Ashok Yadav,Contract Law,Chennai,+91 7672786762
+Vinay Patil,Intellectual Property,Kolkata,+91 9375701578
+Ananya Jha,Contract Law,Delhi,+91 7219125690
+Alka Chopra,Personal Injury Law,Chandigarh,+91 7319801050
+Diya More,Intellectual Property Rights,Lucknow,+91 7468441046
+Ravi Divekar,Government Relations,Chennai,+91 7197748272
+Ayesha Bose,Military Law,Pune,+91 7338507964
+Neha Sen,Technology and Cyber Law,Pune,+91 9111140878
+Nitin Verma,Elder Law,Ahmedabad,+91 8320692981
+Pradeep Gupta,Government Relations,Kolkata,+91 9281008483
+Vihaan Deshmukh,Aviation Law,Mumbai,+91 7127547241
+Diya Patil,Transport Law,Kolkata,+91 9834121162
+Shikha Lal,Intellectual Property Rights,Delhi,+91 7673982411
+Kabir Chatterjee,Space Law,Chandigarh,+91 8596021585
+Geeta Jain,Bankruptcy and Insolvency Law,Delhi,+91 8332835000
+Nikhil Gupta,Intellectual Property,Jaipur,+91 7320250376
+Avinash Kamble,Transport Law,Lucknow,+91 9739964871
+Aarohi Rajput,White-Collar Crime Defense,Lucknow,+91 8524369515
+Meera Mukherjee,Family and Divorce Law,Chandigarh,+91 8106290386
+Vijay Pandit,Elder Law,Ahmedabad,+91 9388233061
+Akash Deshmukh,Social Security Law,Mumbai,+91 8743348805
+Sumit Ranganathan,Privacy Law,Ahmedabad,+91 8529951251
+Vishal Kapoor,Animal Law,Pune,+91 7378475795
+Sayali Banerjee,Animal Law,Delhi,+91 9327614711
+Sayali Pandey,Telecommunications Law,Ahmedabad,+91 7351989308
+Sheetal Verma,Art Law,Jaipur,+91 8227905156
+Megha Sinha,Criminal Defense,Mumbai,+91 7531282276
+Tanvi Yadav,Aviation Law,Jaipur,+91 9715246643
+Pradeep Chavan,Real Estate Law,Delhi,+91 9461147799
+Radhika Rajput,Elder Law,Hyderabad,+91 8693300718
+Aaradhya Yadav,Corporate Law,Bangalore,+91 9823849343
+Radhika Nath,International Arbitration,Hyderabad,+91 8071899949
+Megha Iyer,Intellectual Property Rights,Jaipur,+91 7338262789
+Yash Choudhary,Family and Divorce Law,Pune,+91 8925543089
+Sarika Muley,Aviation Law,Hyderabad,+91 7395008747
+Myra Nath,Labor and Employment Law,Hyderabad,+91 8187328404
+Santosh Nag,Animal Law,Bangalore,+91 8424598575
+Preeti Majumdar,Personal Injury Law,Hyderabad,+91 9462601277
+Rajat Sharma,Employment Law,Chennai,+91 7286393204
+Shilpa Chatterjee,Commercial Law,Hyderabad,+91 9555894579
+Akash Banerjee,Food Law,Pune,+91 7126542926
+Arjun Yadav,Civil Litigation,Bangalore,+91 8296511125
+Vishwas Pandit,Sports Law,Chennai,+91 7911701286
+Nikhil Shinde,Criminal Defense,Kolkata,+91 9016571389
+Aditya Lal,Public Interest Law,Delhi,+91 9688570822
+Aadi Godbole,Sports Law,Hyderabad,+91 8144065822
+Madhu Bajaj,Sports Law,Hyderabad,+91 7710848106
+Ritu Pandey,White-Collar Crime Defense,Delhi,+91 9617663070
+Sumit Khanna,Media Law,Ahmedabad,+91 7504694251
+Rohan Khan,White-Collar Crime Defense,Kolkata,+91 7831309059
+Ritu Srivastava,Tax Planning and Disputes,Pune,+91 8583107199
+Rudra Sharma,Energy Law,Lucknow,+91 8002733677
+Anuj Iyengar,Labor and Employment Law,Chennai,+91 9398763046
+Amaya Deshmukh,Commercial Law,Ahmedabad,+91 7749047706
+Rani Raj,Family Law,Chennai,+91 7715618336
+Tanuja Varma,Technology and Cyber Law,Delhi,+91 8641582292
+Anushka Sharma,Intellectual Property Litigation,Jaipur,+91 8354268756
+Rani Patel,Space Law,Chandigarh,+91 7163900894
+Poonam Reddy,Bankruptcy and Insolvency Law,Ahmedabad,+91 7708812768
+Avinash Nath,Criminal Defense,Kolkata,+91 7551972499
+Anamika Jain,Civil Litigation,Delhi,+91 9421309362
+Rani Chavan,Space Law,Lucknow,+91 9786593180
+Tanvi Verma,Insurance Law,Hyderabad,+91 8181436886
+Aarohi Banerjee,Tax Planning and Disputes,Chennai,+91 8182121484
+Diya Pandit,Human Rights Law,Kolkata,+91 9537219963
+Pooja Chopra,Government Relations,Lucknow,+91 7532382385
+Kavita Mandal,Education Law,Bangalore,+91 9111053239
+Anjali Verma,Consumer Protection Law,Jaipur,+91 7361076300
+Amitabh Godbole,Intellectual Property Litigation,Lucknow,+91 9095570814
+Amaya Pillai,Intellectual Property Rights,Chennai,+91 8239659006
+Shubham Patel,Entertainment Law,Ahmedabad,+91 7094329637
+Rajiv Menon,Family Law,Mumbai,+91 9594364962
+Rupali Sharma,White-Collar Crime Defense,Jaipur,+91 9836329417
+Krishna Chopra,Education Law,Hyderabad,+91 7488838458
+Aarav Pawar,Administrative Law,Chennai,+91 7864421240
+Sameer Yadav,Education Law,Mumbai,+91 8256554418
+Aarohi Sharma,Maritime Law,Ahmedabad,+91 9486956978
+Raj Banerjee,Technology and Cyber Law,Bangalore,+91 7207568572
+Siddharth Sen,Transport Law,Chandigarh,+91 9034455685
+Vikas Bhide,Construction Law,Ahmedabad,+91 7770156740
+Rohan Kamble,Personal Injury and Accident Law,Bangalore,+91 8846383898
+Kunal Jha,Arbitration and Mediation,Ahmedabad,+91 8585956062
+Anjali Malhotra,Tax Planning and Disputes,Lucknow,+91 9448159731
+Aarush Menon,Military Law,Lucknow,+91 7379312814
+Vikram Pandey,Maritime Law,Kolkata,+91 9965338422
+Nitin Reddy,Tax Planning and Disputes,Ahmedabad,+91 9362305076
+Aarav Raj,Education Law,Chennai,+91 9814973978
+Arjun Jha,Public International Law,Jaipur,+91 9978318257
+Shubham Patil,Privacy Law,Hyderabad,+91 9863797476
+Varun Shinde,Education Law,Lucknow,+91 8450151778
+Aditya Ranganathan,Tax Planning and Disputes,Ahmedabad,+91 9920083849
+Pradeep Shah,Privacy Law,Chennai,+91 8416589808
+Poonam Bhattacharya,Real Estate Law,Kolkata,+91 9072862287
+Sumit Kulkarni,Environmental Law,Lucknow,+91 9828836686
+Avni Mandal,Tax Planning and Disputes,Lucknow,+91 8107243329
+Juhi Gupta,Intellectual Property Litigation,Hyderabad,+91 9059174994
+Kavita Majumdar,Food Law,Jaipur,+91 9196791187
+Yogesh Shukla,Technology and Cyber Law,Hyderabad,+91 7963454586
+Ishita Chavan,Criminal Defense,Bangalore,+91 8263760343
+Arun Roy,Environmental Law,Delhi,+91 8027222762
+Sneha Chatterjee,Government Relations,Delhi,+91 7922479465
+Sheetal Menon,Fashion Law,Bangalore,+91 9416864074
+Rajiv Nambiar,Corporate Law,Pune,+91 7252241530
+Ishita Bhat,Family Law,Pune,+91 9396639767
+Ishaan Bhat,Art Law,Ahmedabad,+91 9331007713
+Divya Chakraborty,Healthcare Law,Hyderabad,+91 8514011215
+Poonam Verma,Privacy Law,Chandigarh,+91 9818945607
+Arjun Ghosh,Arbitration and Mediation,Chennai,+91 7573374604
+Myra Joshi,Art Law,Ahmedabad,+91 8647449619
+Ankita Das,Space Law,Chandigarh,+91 7034612664
+Anushka Saxena,Intellectual Property,Delhi,+91 9221784953
+Sakshi Varma,Transport Law,Kolkata,+91 8404326265
+Aanya Ghosh,Civil Litigation,Chennai,+91 8775091070
+Pallavi Kamble,Intellectual Property Litigation,Hyderabad,+91 7278639182
+Vikram Patil,Media Law,Lucknow,+91 7185687729
+Vivek Shinde,Bankruptcy and Insolvency Law,Mumbai,+91 8904627076
+Poonam Iyer,Arbitration and Mediation,Chennai,+91 9697322690
+Ashish Shinde,Energy Law,Lucknow,+91 7978446115
+Akash Bose,Labor and Employment Law,Jaipur,+91 8481868434
+Aanya Chatterjee,Intellectual Property,Chandigarh,+91 9745830052
+Ananya Choudhary,Maritime Law,Chandigarh,+91 7736259638
+Rajesh Muley,International Trade Law,Jaipur,+91 9860319258
+Priyanka Majumdar,Social Security Law,Pune,+91 9264297016
+Krishna Pandit,White-Collar Crime Defense,Pune,+91 9656315728
+Sangeeta Kamble,Criminal Defense,Pune,+91 7268441493
+Yash Kumar,Administrative Law,Hyderabad,+91 7676455256
+Madhu Patel,Art Law,Kolkata,+91 7800743165
+Deepak Jain,Aviation Law,Hyderabad,+91 7283207792
+Pallavi Mandal,Art Law,Pune,+91 7247101255
+Rajesh Jha,Commercial Law,Kolkata,+91 8932566227
+Raj Sharma,Family Law,Chennai,+91 9118696448
+Divya Rajput,Bankruptcy and Insolvency Law,Mumbai,+91 9699550387
+Kavya Iyer,Administrative Law,Lucknow,+91 7034344246
+Pradeep Shinde,Healthcare Law,Chandigarh,+91 9871192919
+Nitin Ghosh,Commercial Law,Bangalore,+91 8878870929
+Amit Tiwari,Consumer Protection Law,Hyderabad,+91 9522413002
+Anuj Muley,Personal Injury Law,Pune,+91 7604368619
+Vivek Chopra,Administrative Law,Hyderabad,+91 9608327571
+Avinash Pandit,Intellectual Property Rights,Chennai,+91 8969379893
+Pradeep Joshi,Criminal Law,Bangalore,+91 8970891662
+Alok Varma,Animal Law,Pune,+91 8073179882
+Siddharth Raj,Bankruptcy and Insolvency Law,Chennai,+91 9372225869
+Sachin Shukla,Government Relations,Jaipur,+91 7243999426
+Nitin Yadav,Construction Law,Bangalore,+91 7900589592
+Myra Majumdar,Criminal Law,Chandigarh,+91 7979078240
+Nitin Shukla,Consumer Protection Law,Pune,+91 7336790187
+Kabir Chopra,Space Law,Chandigarh,+91 7593720410
+Sumit Bajaj,Intellectual Property Litigation,Pune,+91 8219462776
+Parth Yadav,Telecommunications Law,Ahmedabad,+91 7619832267
+Aditi Menon,Animal Law,Mumbai,+91 9044100651
+Neha Ranganathan,Human Rights Law,Chennai,+91 9534661668
+Tanuja Balakrishnan,Civil Litigation,Chandigarh,+91 8288337080
+Tanuja Mukherjee,Personal Injury and Accident Law,Ahmedabad,+91 7517267394
+Sangeeta Iyengar,Elder Law,Mumbai,+91 8083932694
+Aanya Iyer,Transport Law,Lucknow,+91 8290154241
+Sameer Joshi,Administrative Law,Kolkata,+91 7671600092
+Megha Deshmukh,Entertainment Law,Lucknow,+91 7618717459
+Avinash Verma,Personal Injury and Accident Law,Chandigarh,+91 9273459677
+Shilpa Ghosh,Personal Injury and Accident Law,Chandigarh,+91 9492664754
+Aarohi Jha,Labor and Employment Law,Hyderabad,+91 8244697942
+Ashish Khan,Military Law,Jaipur,+91 8876669606
+Suhana More,Tax Law,Chandigarh,+91 8309376525
+Madhu Patil,Immigration Law,Chandigarh,+91 9521516884
+Sameer Malhotra,Entertainment Law,Bangalore,+91 9605370599
+Priya Kamble,Entertainment Law,Chennai,+91 7111243027
+Avinash Sharma,Estate Planning,Kolkata,+91 8276766618
+Anjali Sharma,Intellectual Property Litigation,Hyderabad,+91 8153196386
+Parth Menon,Art Law,Lucknow,+91 9210120615
