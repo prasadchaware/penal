@@ -1,51 +1,51 @@
-LawyerID,Name,Expertise,Location
-1,Aditi Sharma,Criminal Law,Delhi
-2,Raj Kapoor,Family Law,Mumbai
-3,Amit Singh,Civil Litigation,Bangalore
-4,Meera Patel,Intellectual Property,Ahmedabad
-5,Anuj Verma,Corporate Law,Chennai
-6,Sonia Reddy,Immigration Law,Hyderabad
-7,Vikas Mishra,Real Estate Law,Kolkata
-8,Shweta Gupta,Tax Law,Jaipur
-9,Karan Khanna,Employment Law,Pune
-10,Priya Malhotra,Personal Injury Law,Chandigarh
-11,Rahul Mehta,Contract Law,Delhi
-12,Neha Kapoor,Environmental Law,Mumbai
-13,Arjun Sharma,Criminal Defense,Lucknow
-14,Sneha Verma,Family and Divorce Law,Chennai
-15,Vivek Singh,Commercial Law,Bangalore
-16,Megha Patel,Intellectual Property,Pune
-17,Sameer Reddy,Corporate Litigation,Hyderabad
-18,Aishwarya Mishra,Immigration and Nationality Law,Delhi
-19,Sunil Gupta,Real Estate and Property Law,Ahmedabad
-20,Ritu Khanna,Tax Planning and Disputes,Mumbai
-21,Rajeev Malhotra,Labor and Employment Law,Chennai
-22,Simran Kapoor,Personal Injury and Accident Law,Jaipur
-23,Varun Sharma,Insurance Law,Kolkata
-24,Ananya Verma,Consumer Protection Law,Bangalore
-25,Sanjay Reddy,International Trade Law,Pune
-26,Deepika Gupta,White-Collar Crime Defense,Mumbai
-27,Avinash Khanna,Entertainment Law,Delhi
-28,Shikha Patel,Healthcare Law,Chandigarh
-29,Pradeep Singh,Technology and Cyber Law,Bangalore
-30,Anjali Mishra,Bankruptcy and Insolvency Law,Hyderabad
-31,Sachin Kapoor,Arbitration and Mediation,Jaipur
-32,Nidhi Malhotra,Human Rights Law,Mumbai
-33,Rakesh Verma,Family Business Succession Planning,Chennai
-34,Swati Sharma,Environmental Compliance,Delhi
-35,Kunal Patel,Product Liability Law,Pune
-36,Anisha Khanna,Intellectual Property Litigation,Ahmedabad
-37,Ajay Reddy,Real Estate Development Law,Kolkata
-38,Kavita Gupta,Immigration Appeals,Bangalore
-39,Suresh Mishra,Tax Advisory Services,Chandigarh
-40,Pooja Kapoor,Employment Discrimination Law,Hyderabad
-41,Parth Malhotra,Personal Injury Litigation,Mumbai
-42,Sarita Verma,Cybersecurity and Data Privacy Law,Jaipur
-43,Rajeev Sharma,Construction Law,Delhi
-44,Asha Patel,Franchise Law,Pune
-45,Prakash Khanna,Securities Law,Mumbai
-46,Ananya Singh,Intellectual Property Prosecution,Chennai
-47,Krishna Reddy,Family Mediation,Hyderabad
-48,Suman Kapoor,Insurance Defense Law,Kolkata
-49,Vikram Malhotra,Public Interest Litigation,Bangalore
-50,Shivani Gupta,Corporate Governance Law,Jaipur
+LawyerID,Name,Expertise,Location,Contact
+1,Aditi Sharma,Criminal Law,Delhi,+91 98765 43210
+2,Raj Kapoor,Family Law,Mumbai,+91 87654 32109
+3,Amit Singh,Civil Litigation,Bangalore,+91 76543 21098
+4,Meera Patel,Intellectual Property,Ahmedabad,+91 65432 10987
+5,Anuj Verma,Corporate Law,Chennai,+91 54321 09876
+6,Sonia Reddy,Immigration Law,Hyderabad,+91 43210 98765
+7,Vikas Mishra,Real Estate Law,Kolkata,+91 32109 87654
+8,Shweta Gupta,Tax Law,Jaipur,+91 21098 76543
+9,Karan Khanna,Employment Law,Pune,+91 10987 65432
+10,Priya Malhotra,Personal Injury Law,Chandigarh,+91 09876 54321
+11,Rahul Mehta,Contract Law,Delhi,+91 98765 43211
+12,Neha Kapoor,Environmental Law,Mumbai,+91 87654 32110
+13,Arjun Sharma,Criminal Defense,Lucknow,+91 76543 21099
+14,Sneha Verma,Family and Divorce Law,Chennai,+91 65432 10988
+15,Vivek Singh,Commercial Law,Bangalore,+91 54321 09877
+16,Megha Patel,Intellectual Property,Pune,+91 43210 98766
+17,Sameer Reddy,Corporate Litigation,Hyderabad,+91 32109 87655
+18,Aishwarya Mishra,Immigration and Nationality Law,Delhi,+91 21098 76544
+19,Sunil Gupta,Real Estate and Property Law,Ahmedabad,+91 10987 65433
+20,Ritu Khanna,Tax Planning and Disputes,Mumbai,+91 09876 54322
+21,Rajeev Malhotra,Labor and Employment Law,Chennai,+91 98765 43212
+22,Simran Kapoor,Personal Injury and Accident Law,Jaipur,+91 87654 32111
+23,Varun Sharma,Insurance Law,Kolkata,+91 76543 21090
+24,Ananya Verma,Consumer Protection Law,Bangalore,+91 65432 10989
+25,Sanjay Reddy,International Trade Law,Pune,+91 54321 09878
+26,Deepika Gupta,White-Collar Crime Defense,Mumbai,+91 43210 98767
+27,Avinash Khanna,Entertainment Law,Delhi,+91 32109 87656
+28,Shikha Patel,Healthcare Law,Chandigarh,+91 21098 76545
+29,Pradeep Singh,Technology and Cyber Law,Bangalore,+91 10987 65434
+30,Anjali Mishra,Bankruptcy and Insolvency Law,Hyderabad,+91 09876 54323
+31,Sachin Kapoor,Arbitration and Mediation,Jaipur,+91 98765 43213
+32,Nidhi Malhotra,Human Rights Law,Mumbai,+91 87654 32112
+33,Rakesh Verma,Family Business Succession Planning,Chennai,+91 76543 21091
+34,Swati Sharma,Environmental Compliance,Delhi,+91 65432 10980
+35,Kunal Patel,Product Liability Law,Pune,+91 54321 09879
+36,Anisha Khanna,Intellectual Property Litigation,Ahmedabad,+91 43210 98768
+37,Ajay Reddy,Real Estate Development Law,Kolkata,+91 32109 87657
+38,Kavita Gupta,Immigration Appeals,Bangalore,+91 21098 76546
+39,Suresh Mishra,Tax Advisory Services,Chandigarh,+91 10987 65435
+40,Pooja Kapoor,Employment Discrimination Law,Hyderabad,+91 09876 54324
+41,Parth Malhotra,Personal Injury Litigation,Mumbai,+91 98765 43214
+42,Sarita Verma,Cybersecurity and Data Privacy Law,Jaipur,+91 87654 32113
+43,Rajeev Sharma,Construction Law,Delhi,+91 76543 21092
+44,Asha Patel,Franchise Law,Pune,+91 65432 10981
+45,Prakash Khanna,Securities Law,Mumbai,+91 54321 09870
+46,Ananya Singh,Intellectual Property Prosecution,Chennai,+91 43210 98769
+47,Krishna Reddy,Family Mediation,Hyderabad,+91 32109 87658
+48,Suman Kapoor,Insurance Defense Law,Kolkata,+91 21098 76547
+49,Vikram Malhotra,Public Interest Litigation,Bangalore,+91 10987 65436
+50,Shivani Gupta,Corporate Governance Law,Jaipur,+91 09876 54325
